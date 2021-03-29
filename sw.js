@@ -4,7 +4,6 @@ const staticAssets = [
   './favicon/',
   './js/',
   './',
-  './index.html',
   './manifest.json'
 ];
 

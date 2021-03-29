@@ -16,7 +16,7 @@ var showText = document.getElementById('infoSelector');
 var fpsCount = document.getElementById('fpsCount');
 
 function preload() {
-  txtFont = loadFont("SourceSansPro-Regular.otf");
+  txtFont = loadFont("./fonts/SourceSansPro-Regular.otf");
 }
 
 function setup() {
